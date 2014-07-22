@@ -1,0 +1,15 @@
+
+/* Class = "IBUIButton"; normalTitle = "相册"; ObjectID = "ASb-8y-XXm"; */
+"ASb-8y-XXm.normalTitle" = "相册";
+
+/* Class = "IBUINavigationItem"; title = "私人相册"; ObjectID = "KG5-oF-7tb"; */
+"KG5-oF-7tb.title" = "私人相册";
+
+/* Class = "IBUILabel"; text = "请输入密码："; ObjectID = "Pxe-fC-bXY"; */
+"Pxe-fC-bXY.text" = "请输入密码：";
+
+/* Class = "IBUINavigationItem"; title = "欢迎您"; ObjectID = "Z0E-Cu-h6N"; */
+"Z0E-Cu-h6N.title" = "欢迎您";
+
+/* Class = "IBUIButton"; normalTitle = "拍照"; ObjectID = "hib-mW-4oD"; */
+"hib-mW-4oD.normalTitle" = "拍照";
